@@ -1,0 +1,23 @@
+.leahsuter-advice {
+  color: #e2e2e2;
+}
+
+header {
+  background-color: #d22927;
+  max-width: 900px;
+  color: white;
+  margin-top: 15px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+section {
+  padding-left: 40px;
+  color: black;
+}
+
+footer {
+  margin-top: 80px;
+  color: black;
+}
